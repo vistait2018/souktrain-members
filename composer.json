@@ -1,0 +1,11 @@
+{
+    "name": "vendor/souktrain-front-end",
+    "description": "Description of project souktrain_front_end.",
+    "authors": [
+        {
+            "name": "jyde",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
